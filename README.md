@@ -7,12 +7,6 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 💼 Experience
-
-### **StartSet**
-> **Backend Developer (Go)**
-> Разработка серверной части, работа с микросервисной архитектурой и высоконагруженными системами.
-
 ## 🚀 Projects
 
 | Project | Role & Key Achievements |
